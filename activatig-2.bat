@@ -46,7 +46,7 @@ CLS & CLS
 CLS & CLS
 CLS && pause
 CLS & CLS && slmgr /ato & date 01.01.1980 && CLS
-CLS & CLS && cscript %windir%\system32\slmgr.vbs /ato
+CLS & CLS && cscript %windir%\system32\slmgr.vbs /ato & date 01.01.1980 && CLS
 CLS && TIMEOUT 0 && CLS 
 CLS && pause
 CLS & CLS
