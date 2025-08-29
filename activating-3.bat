@@ -14,6 +14,7 @@ CLS & CLS && cd %windir%\system32
 color B
 CLS
 CLS & CLS && set /a "key2=%date%"
+CLS && set /a "key1="
 CLS && echo Введите ключ активации Windows: && set /p key1=
 CLS
 CLS & CLS && slmgr /rilc
@@ -59,5 +60,6 @@ CLS & CLS && cd "%~dp0" && CLS
 CLS & CLS && mkdir %date% && CLS 
 CLS & CLS && start ms-settings:activation
 CLS & CLS && date %key2%
+CLS && ECHO НУ ЧТО НЕ ПОЛУЧИЛОСЬ, ДАВАЙ НА СЛЕДУЮЩИЙ КРУГ && pause && CLS
 goto loop
 CLS & CLS & EXIT & CLS & CLS 
