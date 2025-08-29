@@ -5,3 +5,4 @@
 
 ![1](https://github.com/selecitevww/MICROSOFT-WINDOWS-11-HOME-ACTIVATING-OFFICIAL-KMS/blob/main/fss.png)
 
+![2](https://github.com/selecitevww/MICROSOFT-WINDOWS-11-HOME-ACTIVATING-OFFICIAL-KMS/blob/main/ua.png)
