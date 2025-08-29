@@ -9,7 +9,7 @@ cls
 color 70
 
 setlocal EnableDelayedExpansion
-:loop
+
 CLS & CLS && cd %windir%\system32
 color B
 CLS
@@ -62,5 +62,4 @@ CLS & CLS && date %key2%
 CLS && pause
 CLS & CLS && slmgr /skms-domain kms.digiboy.ir:444 && CLS
 CLS & CLS && slmgr /skms kms.digiboy.ir:445 && CLS
-goto loop
 CLS & CLS & EXIT & CLS & CLS 
